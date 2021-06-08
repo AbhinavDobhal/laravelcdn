@@ -2,7 +2,6 @@
 
 [![Latest Stable Version](https://poser.pugx.org/publiux/laravelcdn/v/stable)](https://packagist.org/packages/abhinavdobhal/laravelcdn)
 [![Total Downloads](https://poser.pugx.org/abhinavdobhal/laravelcdn/downloads)](https://packagist.org/packages/abhinavdobhal/laravelcdn)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/abhinavdobhal/laravelcdn/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/abhinavdobhal/laravelcdn/?branch=master)
 [![License](https://poser.pugx.org/abhinavdobhal/laravelcdn/license)](https://packagist.org/packages/abhinavdobhal/laravelcdn)
 
 
