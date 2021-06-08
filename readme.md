@@ -1,10 +1,9 @@
 # Laravel CDN Assets Manager
 
-[![Latest Stable Version](https://poser.pugx.org/publiux/laravelcdn/v/stable)](https://packagist.org/packages/publiux/laravelcdn)
-[![Total Downloads](https://poser.pugx.org/publiux/laravelcdn/downloads)](https://packagist.org/packages/publiux/laravelcdn)
-[![Build Status](https://travis-ci.org/publiux/laravelcdn.svg)](https://travis-ci.org/publiux/laravelcdn)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/publiux/laravelcdn/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/publiux/laravelcdn/?branch=master)
-[![License](https://poser.pugx.org/publiux/laravelcdn/license)](https://packagist.org/packages/publiux/laravelcdn)
+[![Latest Stable Version](https://poser.pugx.org/publiux/laravelcdn/v/stable)](https://packagist.org/packages/abhinavdobhal/laravelcdn)
+[![Total Downloads](https://poser.pugx.org/abhinavdobhal/laravelcdn/downloads)](https://packagist.org/packages/abhinavdobhal/laravelcdn)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/abhinavdobhal/laravelcdn/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/abhinavdobhal/laravelcdn/?branch=master)
+[![License](https://poser.pugx.org/abhinavdobhal/laravelcdn/license)](https://packagist.org/packages/abhinavdobhal/laravelcdn)
 
 
 ##### Content Delivery Network Package for Laravel
